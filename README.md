@@ -77,6 +77,13 @@ My current repositories are "learning-by-building" experiments designed to explo
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+### Experience
+
+**AWS Next Gen Stats** | Part-time Intern
+*May 2026 – August 2026*
+- Developed machine learning models to analyze player tracking data using Python and AWS SageMaker.
+- Engineered data visualization pipelines to enhance real-time sports statistics.
+- Collaborated with data scientists to optimize data storage in AWS S3.
 ---
 
 ### ✍️ Random Dev Quote
