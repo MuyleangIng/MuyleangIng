@@ -118,6 +118,7 @@ I specialize in engineering sovereign, high-concurrency systems using **C++ (Qt6
 ### 📊 GitHub Productivity
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuyleangIng&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuyleangIng&theme=tokyonight" />
 </p>
 
 ---
