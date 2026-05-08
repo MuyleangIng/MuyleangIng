@@ -35,6 +35,15 @@ I specialize in engineering sovereign, high-concurrency systems using **C++ (Qt6
 ---
 
 ### 🛠️ Technical Arsenal
+
+#### ⚛️ Quantum & AI Research
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-Variational_Quantum-blueviolet?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat)
+![VQC](https://img.shields.io/badge/Research-Variational_Circuits-FFD700?style=flat)
+![QAS](https://img.shields.io/badge/Research-Quantum_Architecture_Search-00CFD5?style=flat)
+
 #### 🧠 Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
